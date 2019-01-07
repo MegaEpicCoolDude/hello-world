@@ -1,3 +1,10 @@
 # hello-world
-Says hello world
-I like the color blue, and beef strogonoff.  I love to code too!
+
+README!
+
+This repository will print the following:
+
+HELLO!
+WHAT'S UP?
+(user input)
+(reprints user input)
